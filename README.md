@@ -4,3 +4,4 @@
 
 ![image](https://user-images.githubusercontent.com/70295997/209492308-e4eb752d-d3ac-4142-a30a-a2829ec953b7.png)
 
+[Source code for selenium.common.exceptions](https://www.selenium.dev/selenium/docs/api/py/_modules/selenium/common/exceptions.html)
